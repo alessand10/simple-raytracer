@@ -1,1 +1,1 @@
-![alt text](render/testDiffuse.ppm)
+![alt text](render/testDiffuse.ppm?raw=true)
