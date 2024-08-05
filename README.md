@@ -1,1 +1,1 @@
-Test readme.
+![alt text] (/render/testDiffuse.ppm)
