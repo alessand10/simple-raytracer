@@ -1,1 +1,3 @@
-![alt text](https://github.com/alessand10/simple-raytracer/blob/main/render/testDiffuse.ppm)
+This is a ray tracer written entirely in C++.
+
+TODO: Add details
